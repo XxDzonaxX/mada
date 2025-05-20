@@ -10,7 +10,7 @@
   ],
   "rendezvous": {
     "host": "37.221.111.198",
-    "port": "8080"
+    "port": "80"
   },
   "winversion": "1.0.0",
   "macversion": "1.0.0",
