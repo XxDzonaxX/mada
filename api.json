@@ -1,0 +1,19 @@
+{
+  "turnservers": [
+    {
+      "protocol": "turn",
+      "host": "turn.hoptodesk.com",
+      "port": "443",
+      "username": "hoptodesk",
+      "password": "hoptodesk1234"
+    }
+  ],
+  "rendezvous": {
+    "host": "37.221.111.198",
+    "port": "80"
+  },
+  "winversion": "1.0.0",
+  "macversion": "1.0.0",
+  "linuxversion": "1.0.0",
+  "none": "none"
+}
